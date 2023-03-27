@@ -1,3 +1,4 @@
+- **still in the process of importing my bigger projects to GitHub
 - 👋 Hi, I’m @hazlodenton
 - 👀 I’m interested in data, data science, and just about anything to do with numbers
 - 🌱 I’m currently learning data science skills using Codeacademy and other online resources.
